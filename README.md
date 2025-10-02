@@ -21,3 +21,4 @@ Majority of boundaries scored through fours (86.61%) compared to sixes.
 Peak run-scoring years around 2010–2018, showcasing his dominance in world cricket.
 
 This is what the Dashboard looks like-
+(https://github.com/Ab5631/Player_stats/blob/main/PlayerStatsDashboard.png)
