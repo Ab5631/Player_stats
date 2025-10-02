@@ -19,3 +19,5 @@ DAX (Data Analysis Expressions) for calculated measures and KPIs.
 Consistent performance over 17+ years with a remarkable average of 46.89.
 Majority of boundaries scored through fours (86.61%) compared to sixes.
 Peak run-scoring years around 2010–2018, showcasing his dominance in world cricket.
+
+This is what the Dashboard looks like-
