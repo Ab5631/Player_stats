@@ -1,6 +1,6 @@
 VIRAT KOHLI CAREER STATISTICS ANALYSIS DASHBOARD
 
-![Tumbnali](
+![Tumbnali](https://github.com/Ab5631/Player_stats/blob/main/PlayerStatsDashboard.png)
 
 
 
