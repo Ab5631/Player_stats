@@ -1,6 +1,6 @@
 VIRAT KOHLI CAREER STATISTICS ANALYSIS DASHBOARD -
 
-![Tumbnali](https://github.com/Ab5631/Player_stats/blob/main/PlayerStatsDashboard.png)
+![Player_Stats_Dashboard](https://github.com/Ab5631/Player_stats/blob/main/PlayerStatsDashboard.png)
 
 This project showcases an interactive Power BI dashboard analyzing the cricketing career of Virat Kohli across ODI, T20, and Test formats. The dashboard provides a comprehensive view of his batting performance from 2008 to 2025, highlighting key career statistics, yearly trends, and milestone achievements.
 
